@@ -1,0 +1,16 @@
+C:\Users\laith alamat\source\repos\Lab03 - System.IO\Lab03 - System.IO\bin\Debug\net5.0\Lab03 - System.IO.exe
+C:\Users\laith alamat\source\repos\Lab03 - System.IO\Lab03 - System.IO\bin\Debug\net5.0\Lab03 - System.IO.deps.json
+C:\Users\laith alamat\source\repos\Lab03 - System.IO\Lab03 - System.IO\bin\Debug\net5.0\Lab03 - System.IO.runtimeconfig.json
+C:\Users\laith alamat\source\repos\Lab03 - System.IO\Lab03 - System.IO\bin\Debug\net5.0\Lab03 - System.IO.runtimeconfig.dev.json
+C:\Users\laith alamat\source\repos\Lab03 - System.IO\Lab03 - System.IO\bin\Debug\net5.0\Lab03 - System.IO.dll
+C:\Users\laith alamat\source\repos\Lab03 - System.IO\Lab03 - System.IO\bin\Debug\net5.0\ref\Lab03 - System.IO.dll
+C:\Users\laith alamat\source\repos\Lab03 - System.IO\Lab03 - System.IO\bin\Debug\net5.0\Lab03 - System.IO.pdb
+C:\Users\laith alamat\source\repos\Lab03 - System.IO\Lab03 - System.IO\obj\Debug\net5.0\Lab03 - System.IO.csproj.AssemblyReference.cache
+C:\Users\laith alamat\source\repos\Lab03 - System.IO\Lab03 - System.IO\obj\Debug\net5.0\Lab03 - System.IO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laith alamat\source\repos\Lab03 - System.IO\Lab03 - System.IO\obj\Debug\net5.0\Lab03 - System.IO.AssemblyInfoInputs.cache
+C:\Users\laith alamat\source\repos\Lab03 - System.IO\Lab03 - System.IO\obj\Debug\net5.0\Lab03 - System.IO.AssemblyInfo.cs
+C:\Users\laith alamat\source\repos\Lab03 - System.IO\Lab03 - System.IO\obj\Debug\net5.0\Lab03 - System.IO.csproj.CoreCompileInputs.cache
+C:\Users\laith alamat\source\repos\Lab03 - System.IO\Lab03 - System.IO\obj\Debug\net5.0\Lab03 - System.IO.dll
+C:\Users\laith alamat\source\repos\Lab03 - System.IO\Lab03 - System.IO\obj\Debug\net5.0\ref\Lab03 - System.IO.dll
+C:\Users\laith alamat\source\repos\Lab03 - System.IO\Lab03 - System.IO\obj\Debug\net5.0\Lab03 - System.IO.pdb
+C:\Users\laith alamat\source\repos\Lab03 - System.IO\Lab03 - System.IO\obj\Debug\net5.0\Lab03 - System.IO.genruntimeconfig.cache
